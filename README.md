@@ -51,4 +51,4 @@ Connection closed.
 xionggang@DESKTOP-5HGRQV2:~$
 ```
 * For more detail, please to see the screenshots like below：
-![Screenshot](tcpserver_running_screenshot.gif)
+![Screenshot](tcpserver_runing_screenshots.gif)
