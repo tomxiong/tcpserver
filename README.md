@@ -1,4 +1,5 @@
 [![Rust](https://github.com/tomxiong/tcpserver/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/tomxiong/tcpserver/actions/workflows/test.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftomxiong%2Ftcpserver.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftomxiong%2Ftcpserver?ref=badge_shield)
 
 # tcpserver is a simple TCP response server which can print message at server console and echo it to client.
 
@@ -52,3 +53,6 @@ xionggang@DESKTOP-5HGRQV2:~$
 ```
 * For more detail, please to see the screenshots like below：
 ![Screenshot](tcpserver_runing_screenshots.gif)
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftomxiong%2Ftcpserver.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftomxiong%2Ftcpserver?ref=badge_large)
