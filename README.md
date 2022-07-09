@@ -57,7 +57,7 @@ telnet> quit
 Connection closed.
 xionggang@DESKTOP-5HGRQV2:~$
 ```
-# For more detail, please to see the screenshots like below：
+# For more detail, please to see the animated graphics gif about "How to use it" like below：
 ![Screenshot](tcpserver_runing_screenshots.gif)
 
 # license
