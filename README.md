@@ -8,8 +8,8 @@ I build this project for my homeworks of studying substrate development.
 
 
 # Change logs:
- [x] Implement a simple echo tcp server with Rust std library 2022-07-08
- [x] Implement three example code for traffic light, sum some u32 values and use generic and trait feature  
+* [x] Implement a simple echo tcp server with Rust std library 2022-07-08 
+* [x] Implement three example code for traffic light, sum some u32 values and use generic and trait feature  
 
 # How to build it?
 ```shell
@@ -38,10 +38,10 @@ The shape area is 100
 --------------------------------------------------------------------
 ```
 
-```
 # For more detail, please to see the animated graphics gif about "How to use it" like below：
-![Screenshot](4-1-2-3.png)
-![Screenshot](4-1-2-3.gif)
+![Screenshot1](/4-1-2-3.png "screen png")
+
+![Screenshot2](4-1-2-3.gif "screen gif")
 
 # license
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftomxiong%2Ftcpserver.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftomxiong%2Ftcpserver?ref=badge_large)
