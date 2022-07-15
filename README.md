@@ -27,8 +27,9 @@ Green light time is 45
 --------------------------------------------------------------------
 The second question is summing of vec u32 values:
 --------------------------------------------------------------------
+Total value is :Some(3446353557)
 overflow!
-Total value is :3469695880
+Wrong value is :None
 --------------------------------------------------------------------
 The third question is use generic and trait feature to calculate area of shapes:
 --------------------------------------------------------------------

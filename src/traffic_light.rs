@@ -13,11 +13,12 @@ enum TrafficLight {
     Green,
     Yellow,
 }
-
+//define the trait for time of traffic light
 trait Light {
     fn time(&self) -> u8;
 }
 
+// implement the trait for enum
 impl Light for TrafficLight {
     fn time(&self) -> u8 {
         match &self {
