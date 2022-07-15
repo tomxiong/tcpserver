@@ -9,7 +9,7 @@ I build this project for my homeworks of studying substrate development.
 
 # Change logs:
  [x] Implement a simple echo tcp server with Rust std library 2022-07-08
- [*] Implement three example code for traffic light, sum some u32 values and use generic and trait feature  
+ [x] Implement three example code for traffic light, sum some u32 values and use generic and trait feature  
 
 # How to build it?
 ```shell
